@@ -48,3 +48,5 @@ Password: guest
 
 Ou então rodar o projeto jar gerado pelo prompt de comando.
 
+java -jar sincronizar.jar arquivo.csv, este comando criará um arquivo de retorno.csv
+
